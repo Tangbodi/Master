@@ -1,0 +1,6 @@
+.tradingview-widget-container{
+    position: fixed;
+    top: 90px;
+    right: 120px;
+    padding: 10px;
+}
